@@ -1,4 +1,5 @@
 # 2048 Game CLONE - Unity Version
+![Game Screenshot](game_screenshot.png)
 ## PLAY https://mustafaberatdemirci.itch.io/2048
 ## Introduction
 
